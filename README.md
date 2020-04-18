@@ -1,2 +1,0 @@
-# blue-true-group
-framework
